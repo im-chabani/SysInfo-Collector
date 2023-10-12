@@ -19,8 +19,14 @@ The script, whether run as an executable or directly from PowerShell, performs t
 2. **Output Data:** The collected information is structured and saved to a text file named "ComputerInfo_<CurrentUser>.txt." This text file can be found in the same directory where the script is run.
 
 
-### Executable File
-If you prefer a user-friendly experience, I've also provided an executable (.exe) version of the script. You can simply run it without needing to interact directly with PowerShell. The choice is yours and you do **not** need Administrator privilege in either way.
+### How to execute 
+**- Using PowerShell:** You have two options to run the script in PowerShell: 
+      First, you can right-click on "SysInfo-Collector.ps1" and select "Run with PowerShell." 
+      Second, open PowerShell, navigate to the file's location, and type "./SysInfo-Collector.ps1" and press Enter.
+
+**- User-Friendly Option:** If you prefer an easier way, I've also created an executable (.exe) version of the script. You can run it just like any other program, without needing to use PowerShell directly. 
+
+You don't need Administrator privileges for either method. The choice is yours!
 
 
 Feel free to tailor and use "SysInfo-Collector" to suit your own personal or small-scale organizational needs. It's all about making the task of computer management more convenient and efficient. Enjoy!
